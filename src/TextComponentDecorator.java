@@ -1,4 +1,4 @@
-abstract class TextComponentDecorator extends TextComponent {
+class TextComponentDecorator extends TextComponent {
 
     private TextComponent text;
 
