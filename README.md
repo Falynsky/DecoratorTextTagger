@@ -2,4 +2,4 @@
 
 __Author__: Kamil Faliński
 
-__About__: Simple example of decorator.
+__About__: Simple example of decorator pattern.
